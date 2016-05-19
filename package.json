@@ -1,0 +1,22 @@
+{
+  "name": "elementary-electron-workshop",
+  "version": "1.0.0",
+  "description": "Desktop app to display a cat picture",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karuppiah7890/elementary-electron-workshop.git"
+  },
+  "author": "Karuppiah <karuppiah7890@gmail.com> (https://www.github.com/karuppiah7890)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karuppiah7890/elementary-electron-workshop/issues"
+  },
+  "homepage": "https://github.com/karuppiah7890/elementary-electron-workshop#readme",
+  "dependencies": {
+    "cat-picture": "^5.1.2"
+  }
+}
